@@ -1,0 +1,24 @@
+{
+  "id": "float",
+  "name": "Float",
+  "version": "1.0.0",
+  "description": "Float",
+  "main": "index.js",
+  "author": "Schascha <contact.schascha@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}.float.com/",
+    "serviceName": "Float",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamId": true,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
